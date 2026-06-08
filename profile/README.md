@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/landcor-logo.png" alt="Landcor Data Corporation" width="300" />
+  <img src="assets/landcor-logo.png" alt="Landcor Data Corporation" width="300" />
 
   ### British Columbia's Property Data & Valuation Authority
 
